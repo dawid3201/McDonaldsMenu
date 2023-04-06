@@ -71,7 +71,7 @@ class Menu {
     public Menu() {
         // Initialize the items ArrayList with McDonald's menu items
         items = new ArrayList<Item>();
-        items.add(new Item("Big Mac", 5.99));
+        items.add(new Item("Big Mac", 4.99));
         items.add(new Item("Quarter Pounder with Cheese", 4.99));
         items.add(new Item("McDouble", 2.99));
 
